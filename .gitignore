@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos temporales o editor
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos de configuración local
+*.env
+*.local
+*.log
+
+
+# VSCode
+.vscode/
+
+# Mac/Linux
+.Trashesgit 
+.Spotlight-V100
