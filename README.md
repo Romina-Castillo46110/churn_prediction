@@ -5,7 +5,7 @@ Este proyecto de ciencia de datos busca predecir la probabilidad de que un clien
 ---
 
 ## 📁 Estructura del Proyecto
-
+```
 churn-prediction/
 │
 ├── data/ # Datos en crudo y procesados
@@ -21,15 +21,15 @@ churn-prediction/
 │
 ├── outputs/
 │ ├── plots/ # Gráficos generados (métricas, ROC, SHAP)
-│ ├── metrics/ # Métricas exportadas
-│ └── predictions/ # Predicciones exportadas
+│ ├── metrics/ # Métricas exportadas si corresponde
+│ └── predictions/ # Predicciones exportadas si se guardan
 │
 ├── src/ # Módulos reutilizables de Python
 │ └── preprocessing.py
 │
 ├── README.md # Este archivo
 └── requirements.txt # Requerimientos del entorno
-
+```
 ---
 
 ## 🚀 Flujo de Trabajo
